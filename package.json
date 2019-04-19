@@ -1,0 +1,25 @@
+{
+  "name": "vektr_mathlib",
+  "version": "1.0.0",
+  "description": "Math lib for Vektr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vektr-libs/math.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "vektr",
+    "math",
+    "lib"
+  ],
+  "author": "Luka Petrovic <lukapetrovicsi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vektr-libs/math/issues"
+  },
+  "homepage": "https://github.com/vektr-libs/math#readme"
+}
